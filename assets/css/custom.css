@@ -1,0 +1,21 @@
+/* Custom styling for education metrics */
+.edu-metric {
+  display: inline-block;
+  margin-top: 0.25rem;
+  padding: 0.15rem 0.4rem;
+  border-radius: 0.35rem;
+  font-weight: 700;
+  color: #1f2937; /* gray-800 */
+  background: #e0f2fe; /* light blue */
+  border: 1px solid #93c5fd; /* blue-300 */
+}
+
+/* Improve spacing in resume blocks on homepage */
+.hb-section .hb-resume .hb-card + .hb-card {
+  margin-top: 0.75rem;
+}
+
+/* Optional: emphasize section titles */
+.hb-section h2, .hb-section .section-title {
+  font-weight: 800;
+}

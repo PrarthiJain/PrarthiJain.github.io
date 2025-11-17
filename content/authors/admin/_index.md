@@ -56,7 +56,7 @@ interests:
   - Real-Time Telemetry
 
 education:
-  - area: MEng, Computer Science; GPA 3.75
+  - area: MEng, Computer Science
     institution: Cornell University
     icon: ""
     date_start: 2022-01-01
@@ -64,19 +64,22 @@ education:
     summary: |
       Coursework in systems and ML. Graduate Teaching/Research Specialist for CS4450 (Computer Networks) and CS4120 (Compilers).
       Project: Alert vehicles based on dynamic routing of emergency vehicles using Kafka streaming and cloud deployment.
-  - area: MS (Research), Computer Science & Engineering; CPI 9.13
+      <span class="edu-metric">GPA: 3.75</span>
+  - area: MS (Research), Computer Science & Engineering
     institution: Indian Institute of Technology (IIT) Indore
     icon: ""
     date_start: 2018-07-01
     date_end: 2020-07-31
     summary: |
       Research in anomaly detection for resource-constrained systems.
-  - area: BE, Information Technology; Grade 83.97%
+      <span class="edu-metric">CPI: 9.13</span>
+  - area: BE, Information Technology
     institution: Devi Ahilya Vishwavidyalaya (DAVV)
     icon: ""
     date_start: 2014-08-01
     date_end: 2018-04-30
-    summary: ''
+    summary: |
+      <span class="edu-metric">Grade: 83.97%</span>
 
 work:
   - position: SDE II
