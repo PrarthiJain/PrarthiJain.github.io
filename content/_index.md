@@ -31,14 +31,14 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📌 About My Work'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I’m a Software Development Engineer at Amazon Web Services, focusing on building an agentic platform that leverages large language models to automate AWS cloud support workflows, analyze incidents, and drive near real-time remediation across large-scale distributed systems. Previously, I led observability and telemetry platforms for robotics at Dexterity, and worked on Spark on Kubernetes at Cloudera.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I specialize in distributed systems, real-time streaming and anomaly detection, and modern platform engineering. With published research in IEEE, ACM, and Springer, I’m passionate about taking systems from prototype to production and building platforms that improve reliability, scalability, and developer experience.
 
-        Please reach out to collaborate 😃
+        Focus areas: GenAI & multi-agent systems · Backend & Platform Engineering · Distributed Systems & Cloud Architecture · Kubernetes · Real-Time Telemetry
     design:
       columns: '1'
   - block: collection

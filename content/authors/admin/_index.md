@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Alex Johnson
+title: Prarthi Jain
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Prarthi
+last_name: Jain
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: She/Her
 
 # Status emoji
 status:
@@ -23,150 +23,165 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: SDE II, Amazon Web Services
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Amazon Web Services (AWS)
+    url: https://aws.amazon.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+    url: 'mailto:prarujain15@gmail.com'
+    label: Primary Email
+  - icon: at-symbol
+    url: 'mailto:pj228@cornell.edu'
+    label: Secondary Email (Cornell)
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/PrarthiJain
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/prarthi-jain-a06106171/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=8yTYtQgAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0002-4947-1175
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - GenAI & multi-agent systems
+  - Backend & Platform Engineering
+  - Distributed Systems & Cloud Architecture
+  - Kubernetes
+  - Real-Time Telemetry
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: MEng, Computer Science; GPA 3.75
+    institution: Cornell University
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2022-01-01
+    date_end: 2022-12-31
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+      Coursework in systems and ML. Graduate Teaching/Research Specialist for CS4450 (Computer Networks) and CS4120 (Compilers).
+      Project: Alert vehicles based on dynamic routing of emergency vehicles using Kafka streaming and cloud deployment.
+  - area: MS (Research), Computer Science & Engineering; CPI 9.13
+    institution: Indian Institute of Technology (IIT) Indore
     icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+    date_start: 2018-07-01
+    date_end: 2020-07-31
     summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+      Research in anomaly detection for resource-constrained systems.
+  - area: BE, Information Technology; Grade 83.97%
+    institution: Devi Ahilya Vishwavidyalaya (DAVV)
     icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+    date_start: 2014-08-01
+    date_end: 2018-04-30
+    summary: ''
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: SDE II
+    company_name: Amazon Web Services (AWS)
+    company_url: 'https://aws.amazon.com/'
     icon: ''
-    date_start: 2020-01-01
+    date_start: 2025-02-01
     date_end: ''
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+      Contributing to Amazon’s GenAI and automation initiatives by building an agentic platform that reduces cloud support overhead and automates complex operational workflows via Amazon Q and other channels. Integrating LLMs, orchestration agents, and event-driven pipelines to autonomously analyze incidents and drive near real-time remediation across large-scale distributed systems.
+  - position: Software Engineer 3
+    company_name: Dexterity, Inc.
+    company_url: 'https://www.dexterity.ai/'
     icon: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+    date_start: 2024-04-01
+    date_end: 2025-02-01
+    summary: |2-
+      Led the observability platform for large-scale robotic fleets. Built secure, real-time streaming telemetry pipelines enabling actionable insights and early fault detection.
+  - position: Software Engineer 2
+    company_name: Dexterity, Inc.
+    company_url: 'https://www.dexterity.ai/'
+    icon: ''
+    date_start: 2023-01-01
+    date_end: 2024-03-31
+    summary: |2-
+      Designed and shipped an end-to-end REST API monitoring platform in Go, containerized and deployed to GKE with authN/Z. Drove horizontal/vertical scaling by migrating from Prometheus to VictoriaMetrics to improve efficiency of real-time metrics ingestion and monitoring for robot applications.
+  - position: Graduate Teaching/Research Specialist (GTRS)
+    company_name: Cornell University
+    company_url: 'https://www.cornell.edu/'
+    icon: ''
+    date_start: 2022-01-01
+    date_end: 2022-12-31
+    summary: |2-
+      Supported CS4450 (Computer Networks) with Prof. Rachit Agarwal and CS4120 (Compilers) with Prof. Andrew Myers.
+  - position: Software Engineer
+    company_name: Cloudera
+    company_url: 'https://www.cloudera.com/'
+    icon: ''
+    date_start: 2020-07-01
+    date_end: 2022-01-31
+    summary: |2-
+      Automated AKS/EKS cluster status tracking with REST APIs. Added Airflow/Spark email alerts for SLA misses and failures. Added CLI support for creating EKS/AKS clusters. Release captain for a major product release. Open source: Apache Zeppelin (ZEPPELIN-5116, ZEPPELIN-5249).
+  - position: Teaching Assistant
+    company_name: Indian Institute of Technology (IIT) Indore
+    company_url: 'https://www.iiti.ac.in/'
+    icon: ''
+    date_start: 2018-07-01
+    date_end: 2020-06-30
+    summary: |2-
+      TA for IC151 (Computer Programming) and CS358 (Compiler Techniques).
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
+      - name: Go & Python
         description: ''
-        percent: 95
+        percent: 90
         icon: code-bracket
-      - name: Machine Learning
+      - name: Kubernetes, Helm, Docker
         description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
+        percent: 85
+        icon: cube
+      - name: AWS, GCP, Azure
         description: ''
         percent: 85
         icon: cloud
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking in the Rockies
+      - name: Observability (Prometheus/VictoriaMetrics)
+        description: ''
+        percent: 85
+        icon: chart-bar
+      - name: SQL/Postgres & Streaming (Kafka)
         description: ''
         percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
-        description: ''
-        percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
-        percent: 70
-        icon: book-open
+        icon: circle-stack
 
 languages:
   - name: English
     percent: 100
-  - name: Spanish
-    percent: 50
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+# Awards
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
+  - title: INCC Onsite Finals - 3rd Place
+    url: ''
+    date: '2018-01-01'
+    awarder: IET DAVV (CodeChef)
     icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
+    summary: 'Secured 3rd rank in Onsite Finals of INCC 2018 hosted by IET DAVV on CodeChef.'
+  - title: GATE AIR 878 (99.3 percentile)
+    url: ''
+    date: '2018-01-01'
+    awarder: GATE
     icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+    summary: 'All India Rank 878 among ~130,000 candidates.'
+  - title: CBSE Certificate of Merit (Mathematics)
+    url: ''
+    date: '2014-01-01'
+    awarder: CBSE
+    icon: hero/academic-cap
+    summary: 'Awarded for being among the top 0.1% nationwide in Mathematics (AISSCE 2014).'
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+I’m a Software Development Engineer at Amazon Web Services, focusing on building an agentic platform that leverages large language models to automate AWS cloud support workflows, analyze incidents, and drive near real-time remediation across large-scale distributed systems. Previously, I led observability and telemetry platforms for robotics at Dexterity, and worked on Spark on Kubernetes at Cloudera.
+
+I specialize in distributed systems, real-time streaming and anomaly detection, and modern platform engineering. With published research in IEEE, ACM, and Springer, I’m passionate about taking systems from prototype to production and building platforms that improve reliability, scalability, and developer experience.
+
+Focus areas: GenAI & multi-agent systems · Backend & Platform Engineering · Distributed Systems & Cloud Architecture · Kubernetes · Real-Time Telemetry
