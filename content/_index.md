@@ -62,13 +62,12 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: experience
+  - block: resume-experience
     content:
       title: Experience
       username: admin
     design:
-      date_format: 'Jan 2006'
+      date_format: 'January 2006'
       is_education_first: false
   - block: markdown
     content:
